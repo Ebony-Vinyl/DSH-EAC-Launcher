@@ -1,6 +1,6 @@
 # EAC LAUNCHER — DSH EAC 多实例启动器
 
-黑白极简 · 多实例隔离 · 插件市场一体的 [Deepseek Harness EAC（揽尽万象）](https://github.com/zouyuxuan122/DSH-Desktop-EAC) 桌面启动器。
+黑白极简 · 多实例隔离 · 插件市场一体的 [Deepseek Harness EAC（揽尽万象）](https://github.com/Ebony-Vinyl/DSH-Desktop-EAC) 桌面启动器。
 
 Tauri 2 + TypeScript（vanilla，无 UI 框架）构建，安装包约 8 MB。
 
